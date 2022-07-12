@@ -8,23 +8,11 @@
     "oncran": true
   },
   {
-    "package": "caret",
-    "oncran": true
-  },
-  {
     "package": "Cubist",
     "oncran": true
   },
   {
-    "package": "desirability",
-    "oncran": true
-  },
-  {
     "package": "sparsediscrim",
-    "oncran": true
-  },
-  {
-    "package": "sparseLDA",
     "oncran": true
   }
 ]
