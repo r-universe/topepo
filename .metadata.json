@@ -4,11 +4,7 @@
     "oncran": true
   },
   {
-    "package": "C50",
-    "oncran": true
-  },
-  {
-    "package": "caret",
+    "package": "sparsediscrim",
     "oncran": true
   },
   {
@@ -20,11 +16,15 @@
     "oncran": true
   },
   {
-    "package": "sparsediscrim",
+    "package": "caret",
     "oncran": true
   },
   {
     "package": "sparseLDA",
+    "oncran": true
+  },
+  {
+    "package": "C50",
     "oncran": true
   }
 ]

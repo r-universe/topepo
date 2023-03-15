@@ -8,16 +8,10 @@
 	url = https://github.com/topepo/ameshousing
 	shallow = true
 	registered = true
-[submodule "C50"]
-	path = C50
-	url = https://github.com/topepo/c5.0
+[submodule "sparsediscrim"]
+	path = sparsediscrim
+	url = https://github.com/topepo/sparsediscrim
 	shallow = true
-	registered = true
-[submodule "caret"]
-	path = caret
-	url = https://github.com/topepo/caret
-	shallow = true
-	subdir = pkg/caret
 	registered = true
 [submodule "Cubist"]
 	path = Cubist
@@ -30,14 +24,20 @@
 	shallow = true
 	subdir = desirability
 	registered = true
-[submodule "sparsediscrim"]
-	path = sparsediscrim
-	url = https://github.com/topepo/sparsediscrim
+[submodule "caret"]
+	path = caret
+	url = https://github.com/topepo/caret
 	shallow = true
+	subdir = pkg/caret
 	registered = true
 [submodule "sparseLDA"]
 	path = sparseLDA
 	url = https://github.com/topepo/sparselda
 	shallow = true
 	subdir = pkg/sparseLDA
+	registered = true
+[submodule "C50"]
+	path = C50
+	url = https://github.com/topepo/c5.0
+	shallow = true
 	registered = true
