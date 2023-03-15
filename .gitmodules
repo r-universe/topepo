@@ -8,6 +8,16 @@
 	url = https://github.com/topepo/ameshousing
 	shallow = true
 	registered = true
+[submodule "AppliedPredictiveModeling"]
+	path = AppliedPredictiveModeling
+	url = https://github.com/topepo/appliedpredictivemodeling
+	shallow = true
+	registered = true
+[submodule "beans"]
+	path = beans
+	url = https://github.com/topepo/beans
+	shallow = true
+	registered = true
 [submodule "C50"]
 	path = C50
 	url = https://github.com/topepo/c5.0

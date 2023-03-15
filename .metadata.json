@@ -4,6 +4,14 @@
     "oncran": true
   },
   {
+    "package": "AppliedPredictiveModeling",
+    "oncran": true
+  },
+  {
+    "package": "beans",
+    "oncran": true
+  },
+  {
     "package": "C50",
     "oncran": true
   },
