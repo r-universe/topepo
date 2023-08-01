@@ -8,27 +8,27 @@
 [submodule "AppliedPredictiveModeling"]
 	path = AppliedPredictiveModeling
 	url = https://github.com/topepo/appliedpredictivemodeling
-[submodule "beans"]
-	path = beans
-	url = https://github.com/topepo/beans
 [submodule "C50"]
 	path = C50
 	url = https://github.com/topepo/c5.0
+[submodule "Cubist"]
+	path = Cubist
+	url = https://github.com/topepo/cubist
+[submodule "beans"]
+	path = beans
+	url = https://github.com/topepo/beans
 [submodule "caret"]
 	path = caret
 	url = https://github.com/topepo/caret
 	subdir = pkg/caret
-[submodule "Cubist"]
-	path = Cubist
-	url = https://github.com/topepo/cubist
 [submodule "desirability"]
 	path = desirability
 	url = https://github.com/topepo/desirability
 	subdir = desirability
-[submodule "sparsediscrim"]
-	path = sparsediscrim
-	url = https://github.com/topepo/sparsediscrim
 [submodule "sparseLDA"]
 	path = sparseLDA
 	url = https://github.com/topepo/sparselda
 	subdir = pkg/sparseLDA
+[submodule "sparsediscrim"]
+	path = sparsediscrim
+	url = https://github.com/topepo/sparsediscrim
