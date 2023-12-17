@@ -25,6 +25,9 @@
 	path = desirability
 	url = https://github.com/topepo/desirability
 	subdir = desirability
+[submodule "sfd"]
+	path = sfd
+	url = https://github.com/topepo/sfd
 [submodule "sparseLDA"]
 	path = sparseLDA
 	url = https://github.com/topepo/sparselda
