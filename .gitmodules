@@ -20,7 +20,6 @@
 [submodule "caret"]
 	path = caret
 	url = https://github.com/topepo/caret
-	subdir = pkg/caret
 [submodule "desirability"]
 	path = desirability
 	url = https://github.com/topepo/desirability
